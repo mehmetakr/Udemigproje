@@ -53,7 +53,6 @@ Bu bölüm şirketinizin veya kurslarımızın kısa bir açıklamasını içerm
 
 <h1> Proje Gif</h1>
 
-![acıklama](url)
 
 <img src="gif/udemıg.gif">
 

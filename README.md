@@ -53,4 +53,4 @@ Bu bölüm şirketinizin veya kurslarımızın kısa bir açıklamasını içerm
 
 ![acıklama]()
 
-<img src"udemıgGİF.gif"/>
+<img src"udemıgGİF.gif">

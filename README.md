@@ -83,10 +83,8 @@ Bu bölüm şirketinizin veya kurslarımızın kısa bir açıklamasını içerm
 
 <<<<<<< HEAD
 
-<h1>Proje Gif</h1>
-
 <h1> Proje Gif</h1>
-<img src="gif/udemıg.gif">
+<img src="udemig.gif">
 
 
 

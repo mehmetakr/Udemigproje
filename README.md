@@ -47,4 +47,5 @@ Bu bölüm, sunulan kursların bir listesini içerir. Her kurs için bir başlı
 
 <h1>Proje Gif</h1>
 
-<img src="udemig.gif" max-width="100%" height="auto" >
+!["İlk gifim"](udemig.gif)
+
